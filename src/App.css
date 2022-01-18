@@ -1,0 +1,27 @@
+.App {
+  height: auto;
+  min-height: 100vw;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.transactions .card-content {
+  padding: 0;
+}
+
+.transactions table {
+  width: 100%;
+}
+
+.transactions .table-wrapper {
+  overflow: auto;
+  max-height: 90vw;
+}
+
+.transactions .card .card-header {
+  border-bottom: 1px solid rgba(24, 28, 33, 0.6);
+}
+
+.transactions .card {
+  border-radius: 5px;
+}
